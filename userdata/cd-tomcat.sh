@@ -1,5 +1,5 @@
 #!/bin/bash
-sudo apt update
+sudo apt update -y
 sudo apt install openjdk-8-jdk -y
 sudo apt install git wget unzip -y
 sudo apt install awscli -y
